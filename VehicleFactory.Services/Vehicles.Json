@@ -1,0 +1,30 @@
+[
+  {
+    "VehicleId": 1,
+    "Manufacturer": "Ford",
+    "Make": "Mustang",
+    "Model": "GT",
+    "Year": "2015"
+  },
+  {
+    "VehicleId": 2,
+    "Manufacturer": "Cheverlot",
+    "Make": "Corvette",
+    "Model": "Z06",
+    "Year": "2017"
+  },
+  {
+    "VehicleId": 3,
+    "Manufacturer": "Dodge",
+    "Make": "Challenger",
+    "Model": "Hellcot",
+    "Year": "2016"
+  },
+  {
+    "VehicleId": 4,
+    "Manufacturer": "TestNew_updated",
+    "Make": "Mustang_Test",
+    "Model": "GT_Test",
+    "Year": "2015"
+  }
+]
