@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleFactory.Services", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleFactory.TestConsole", "VehicleFactory.TestConsole\VehicleFactory.TestConsole.csproj", "{C5D6EEBB-5B11-4F32-B0C2-99F84D1FF258}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleFactory.UI", "VehicleFactory.UI\VehicleFactory.UI.csproj", "{8C6FB33F-263D-4C68-8DAF-64010A42BE1B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{C5D6EEBB-5B11-4F32-B0C2-99F84D1FF258}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5D6EEBB-5B11-4F32-B0C2-99F84D1FF258}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5D6EEBB-5B11-4F32-B0C2-99F84D1FF258}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C6FB33F-263D-4C68-8DAF-64010A42BE1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C6FB33F-263D-4C68-8DAF-64010A42BE1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C6FB33F-263D-4C68-8DAF-64010A42BE1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C6FB33F-263D-4C68-8DAF-64010A42BE1B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
